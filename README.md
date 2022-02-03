@@ -1,4 +1,6 @@
 # EyeMovementExercise
+![eyes](https://user-images.githubusercontent.com/93966332/152315571-e73b8f9b-898a-4034-955f-f63dd06986f1.png)
+
 
 ## Description
 + This exercise generates eyes that follow the user's cursor around the window.
